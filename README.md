@@ -16,3 +16,8 @@ As explained in this page, you can click on the following badges to run the note
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/gwosc-tutorial/introduction_gwosc_data_files/main)
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/gwosc-tutorial/introduction_gwosc_data_files/blob/main)
+
+## How to contribute?
+
+If you have found an error or want to suggest an improvement,
+don't hesitate to open an issue on the [GitHub repository](https://github.com/gwosc-tutorial/introduction_gwosc_data_files).
