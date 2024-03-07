@@ -7,6 +7,7 @@ This repository contains tutorials for the [GWOSC](https://gwosc.org) data.
 The tutorials come as Jupyter Notebooks and use the Python language.
 Each notebook illustrates a particular aspect of working with GWOSC data.
 The simplest option is to run them in order.
+Don't hesitate to extract part of the notebooks in your own scripts.
 
 ## How to run the notebooks?
 
