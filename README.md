@@ -18,7 +18,11 @@ As explained in this page, you can click on the following badges to run the note
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/gwosc-tutorial/introduction_gwosc_data_files/blob/main)
 
-## How to contribute?
+## How to go further?
+
+The last notebook suggests other tutorials and resources to continue your journey.
+
+If you have further questions, connect with the gravitational-wave community on [ask.igwn.org](https://ask.igwn.org/).
 
 If you have found an error or want to suggest an improvement,
-don't hesitate to open an issue on the [GitHub repository](https://github.com/gwosc-tutorial/introduction_gwosc_data_files).
+don't hesitate to contact us at gwosc@igwn.org or [open an issue on the GitHub repository](https://github.com/gwosc-tutorial/introduction_gwosc_data_files/issues).
